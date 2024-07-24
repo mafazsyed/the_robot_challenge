@@ -10,4 +10,5 @@ This repository contains the design and code for the robot used to take part in 
 
 ![20231206_145435](https://github.com/user-attachments/assets/dce50a4c-a533-4482-8210-b52493eea595)
 
-For more, visit [the webpage][(https://mafazsyed.com/the-robot-challenge/)].
+For more, visit [the webpage](https://mafazsyed.com/the-robot-challenge/).
+
